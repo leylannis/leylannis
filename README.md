@@ -3,7 +3,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leylannis&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-You can find me on [![LinkedIn][3.2]][3].
+You can find me on [![LinkedIn][2.2]][2].
 
 <!-- Icons -->
 
